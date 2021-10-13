@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LobbySpammer",
+  "name": "LobbySpammer",
+  "description": "LobbySpammer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LobbySpammer"],
+  "credits": "LobbySpammer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
